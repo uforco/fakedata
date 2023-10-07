@@ -1,0 +1,28 @@
+[
+    {
+        "img": "https://i.ibb.co/wQyXY6D/wedding-S1.jpg",
+        "service": "Dream Maker",
+        "title": "Wedding & Event Planner For Colorful Couples",
+        "description": "We would love to meet up and chat about how we can make",
+        "signature": "your dream",
+        "sigdescrip": " wedding happen!"
+        
+    },{
+        "img": "https://i.ibb.co/HXzDbFD/wedding-S2.jpg",
+        "service": "Dream Maker",
+        "title": "International & Destination Wedding Planner",
+        "description": "No matter your dreams - we can assist you in planning your ",
+        "signature": "weddings - events",
+        "sigdescrip": "."
+        
+    },{
+        "img": "https://i.ibb.co/wpqxqZn/wedding-S3.jpg",
+        "service": "Dream Wedding",
+        "title": "We Make Your Wedding Dreams Come",
+        "description": "We believe that it is all about the",
+        "signature": "big dreams",
+        "sigdescrip": "and the small details! Nullam vestibulum iaculis maximus."
+        
+    }
+    
+]
