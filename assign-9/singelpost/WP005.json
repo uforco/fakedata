@@ -1,0 +1,14 @@
+{
+    "id": "WP005",
+    "name": "Destination Wedding",
+    "img": "https://raw.githubusercontent.com/uforco/fakedata/main/assign-9/rsz_1wp5unsplash.jpg",
+    "description": "Indulge in the timeless elegance of a classic wedding with Timeless Classic. From traditional ballrooms to everlasting floral arrangements, this package exudes sophistication. Enjoy classic wedding planning, traditional venue selection, classic decor and styling, timeless floral arrangements, classic photography and videography, and attentive day-of coordination.",
+    "package_includes": [
+      "Classic wedding planning",
+      "Traditional venue selection",
+      "Classic decor and styling",
+      "Timeless floral arrangements",
+      "Classic photography and videography",
+      "Day-of coordination"
+    ]
+}

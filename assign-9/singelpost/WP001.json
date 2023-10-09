@@ -1,0 +1,15 @@
+
+    {
+      "id": "WP001",
+      "name": "Wedding Planner",
+      "img": "https://duruthemes.com/demo/html/florya/img/couple/2.jpg",
+      "description": "Experience the epitome of sophistication with our Elegant Bliss package. Immerse yourself in a world where every detail exudes perfection, from personalized wedding favors to meticulously curated floral arrangements. Our full-service planning ensures your dream wedding becomes an exquisite reality. Picture a Rustic Romance with burlap, lace, and the warm glow of candlelight, bringing the charm of the countryside to your special day. For a couple embracing sleek lines and contemporary designs, the Modern Chic package tailors to your modern style, offering trendy venue selection, stylish decor, and high-quality cinematography.",
+      "package_includes": [
+        "Full-service wedding planning",
+        "Venue selection and decoration",
+        "Customized floral arrangements",
+        "Professional photography package",
+        "Personalized wedding favors",
+        "Day-of coordination"
+      ]
+    }

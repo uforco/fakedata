@@ -1,0 +1,14 @@
+{
+    "id": "WP006",
+    "name": "Corporate Events",
+    "img": "https://raw.githubusercontent.com/uforco/fakedata/main/assign-9/rsz_wp6unsplash.jpg",
+    "description": "Step into a magical world with Whimsical Wonderland, where enchanting details, fairy lights, and dreamy settings transport you to a whimsical celebration. This package includes whimsical-themed planning, enchanting venue selection, dreamy decor and styling, fairy tale floral arrangements, fantasy-inspired photography, and meticulous day-of coordination.",
+    "package_includes": [
+      "Whimsical-themed wedding planning",
+      "Enchanting venue selection",
+      "Dreamy decor and styling",
+      "Fairy tale floral arrangements",
+      "Fantasy-inspired photography",
+      "Day-of coordination"
+    ]
+}
